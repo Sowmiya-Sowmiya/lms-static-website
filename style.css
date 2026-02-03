@@ -21,15 +21,14 @@ a:hover {
   color: #0056b3;
 }
 
-ul {
-  list-style-type: none;
-  padding: 0;
+ul li {
+  margin: 8px 0;
 }
 .container {
   max-width: 800px;
   margin: 40px auto;
   padding: 20px;
-  text-align: center;
+  text-align: left;
 }
 nav {
   background-color: #2c3e50;
